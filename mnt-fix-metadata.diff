@@ -1,0 +1,8 @@
+--- mnt-0.3.1/Cargo.toml	1970-01-01T01:00:00+01:00
++++ mnt-0.3.1/Cargo.toml	2019-03-09T14:46:49.234562+01:00
+@@ -21,4 +21,4 @@
+ license = "LGPL-3.0"
+ repository = "https://github.com/stemjail/mnt-rs"
+ [dependencies.libc]
+-version = "0.2.*"
++version = "0.2"
